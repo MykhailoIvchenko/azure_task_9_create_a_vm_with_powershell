@@ -36,4 +36,3 @@ New-AzVM `
   -SecurityGroupName $networkSecurityGroupName `
   -PublicIpAddressName $publicIpAddressName `
   -SshKeyName $sshKeyName `
-  -OpenPorts 8080
